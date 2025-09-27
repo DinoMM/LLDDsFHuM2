@@ -1,8 +1,8 @@
-Privacy Policy for EVSytem
+Privacy Policy for EVSystem
 
 Effective date: 27.9.2025
 
-This Privacy Policy describes how EVSytem handles information when used by its users.
+This Privacy Policy describes how EVSystem handles information when used by its users.
 
 1. Information We Collect
 
